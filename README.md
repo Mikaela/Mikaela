@@ -11,5 +11,4 @@ In general I am mostly reporting issues, changing documentation or maintaining
 small scripts or files of some use to me.
 
 * [Mikaela.info](https://mikaela.info/) has my contact details and other sites.
-* Pronouns: ŝi/ŝin/ŝia or other feminine/neutral ones.
-  * [The ŝ can be denoted as sh or sx](https://en.wikipedia.org/wiki/Substitutions_of_the_Esperanto_alphabet).
+* Pronouns: she/they
