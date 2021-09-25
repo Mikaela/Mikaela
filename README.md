@@ -1,5 +1,7 @@
 Hi 👋🏻
 
+![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Mikaela&count_private=true&show_icons=true&theme=cobalt)
+
 Most of my own repositories are mirrorred from [gitea.blesmrt.net](https://gitea.blesmrt.net/mikaela?tab=activity)
 just for showcasing instead of developed on GitHub, due to having been a [PrivacyTools Team Member](https://privacytools.io/about/)
 and thus introduced to [concerns](https://github.com/privacytools/privacytools.io/issues/763) with [Microsoft'](https://github.com/privacytools/privacytools.io/issues/843)s [GitHub](https://github.com/privacytools/privacytools.io/issues/1062) such as [drop ICE](https://github.com/selfagency/microsoft-drop-ice)
