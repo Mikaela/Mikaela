@@ -12,7 +12,8 @@ small scripts or files of some use to me.
 
 * [Mikaela.info](https://mikaela.info/) has further information on contacting me
   (through Matrix, XMPP, etc.) and other git forges.
-  * [List of IRC networks/accounts](https://mikaela.info/txt/irc.txt).
+  * [List of IRC networks/accounts](https://mikaela.info/txt/irc.txt) & [my public chat rooms](https://mikaela.info/discuss)
+    have their own files or pages.
 * GitHub hosted public [SSH](https://github.com/Mikaela.keys) and [GPG](https://github.com/Mikaela.gpg) keys.
   * See also [me/ in pgp-alt-wot](https://github.com/Mikaela/pgp-alt-wot/tree/master/me) and [authorized_keys in shell-things](https://github.com/Mikaela/shell-things/blob/master/.mikaela/keys/authorized_keys).
 * Pronouns: she/they
