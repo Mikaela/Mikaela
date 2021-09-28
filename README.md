@@ -4,7 +4,7 @@ Hi 👋🏻
 
 Most of my own repositories are mirrorred from [gitea.blesmrt.net](https://gitea.blesmrt.net/mikaela?tab=activity)
 just for showcasing instead of developed on GitHub, due to having been a [PrivacyTools Team Member](https://web.archive.org/web/20210922131757/https://privacytools.io/about/)
-(nowadays known as [PrivacyGuides](https://privacyguides.org/) and thus introduced to [concerns](https://github.com/privacytools/privacytools.io/issues/763) with [Microsoft'](https://github.com/privacytools/privacytools.io/issues/843)s [GitHub](https://github.com/privacytools/privacytools.io/issues/1062) such as [drop ICE](https://github.com/selfagency/microsoft-drop-ice)
+(nowadays known as [PrivacyGuides](https://privacyguides.org/)) and thus introduced to [concerns](https://github.com/privacytools/privacytools.io/issues/763) with [Microsoft'](https://github.com/privacytools/privacytools.io/issues/843)s [GitHub](https://github.com/privacytools/privacytools.io/issues/1062) such as [drop ICE](https://github.com/selfagency/microsoft-drop-ice)
 and [GitHub do not ban us from open source world](https://github.com/1995parham/github-do-not-ban-us).
 
 In general I am mostly reporting issues, changing documentation or maintaining
