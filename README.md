@@ -10,7 +10,9 @@ and [GitHub do not ban us from open source world](https://github.com/1995parham/
 In general I am mostly reporting issues, changing documentation or maintaining
 small scripts or files of some use to me.
 
-* [Mikaela.info](https://mikaela.info/) has my contact details and other sites.
+* [Mikaela.info](https://mikaela.info/) has further information on contacting me
+  (through Matrix, XMPP, etc.) and other git forges.
+  * [List of IRC networks/accounts](https://mikaela.info/txt/irc.txt).
 * GitHub hosted public [SSH](https://github.com/Mikaela.keys) and [GPG](https://github.com/Mikaela.gpg) keys.
   * See also [me/ in pgp-alt-wot](https://github.com/Mikaela/pgp-alt-wot/tree/master/me) and [authorized_keys in shell-things](https://github.com/Mikaela/shell-things/blob/master/.mikaela/keys/authorized_keys).
 * Pronouns: she/they
