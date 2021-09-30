@@ -1,7 +1,7 @@
 Hi 👋🏻
 
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Mikaela&count_private=true&show_icons=true&theme=cobalt)
-<br/> <a target="_blank" href="https://www.openhub.net/accounts/Mikaela?ref=sample"><img alt='Open Hub profile for Mikaela Suomalainen' border='0' height='35' src='https://www.openhub.net/accounts/Mikaela/widgets/account_detailed?format=gif&amp;ref=sample' width='230'>
+<br/> <a target="_blank" href="https://www.openhub.net/accounts/Mikaela?ref=sample"><img alt='Open Hub profile for Mikaela Suomalainen' border='0' height='35' src='https://www.openhub.net/accounts/Mikaela/widgets/account_detailed?format=gif' width='230'>
 </a>
 
 Most of my own repositories are mirrorred from [gitea.blesmrt.net](https://gitea.blesmrt.net/mikaela?tab=activity)
