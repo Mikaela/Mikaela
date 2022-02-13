@@ -16,6 +16,6 @@ small scripts or files of some use to me.
   * [List of IRC networks/accounts](https://mikaela.info/txt/irc.txt) & [my public chat rooms](https://mikaela.info/discuss)
     have their own files or pages.
 * GitHub hosted public [SSH](https://github.com/Mikaela.keys) and [GPG](https://github.com/Mikaela.gpg) keys.
-  * See also [me/ in pgp-alt-wot](https://github.com/Mikaela/pgp-alt-wot/tree/master/me) and [authorized_keys in shell-things](https://github.com/Mikaela/shell-things/blob/master/.mikaela/keys/authorized_keys).
+  * See also [me/ in pgp-alt-wot](https://github.com/Mikaela/pgp-alt-wot/tree/master/me) and [aminda.pub in ssh-allowed_signers](https://github.com/Mikaela/ssh-allowed_signers/blob/cxefa/aminda/aminda.pub).
 * Pronouns: she/they
 * `TZ=Europe/Helsinki date`
