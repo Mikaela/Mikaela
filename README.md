@@ -10,7 +10,7 @@ and [GitHub, do not ban us from open source world](https://github.com/1995parham
 In general I am mostly reporting issues, changing documentation or maintaining
 small scripts or files of some use to me.
 
-* [Mikaela.info](https://mikaela.info/) has further information on contacting me
+* [Aminda.eu](https://www.aminda.eu/) has further information on contacting me
   (through Matrix, XMPP, etc.) and other git forges.
   * [Curriculum Vitae](http://cv.aminda.eu/)
   * [List of IRC networks/accounts](https://mikaela.info/txt/irc.txt) & [my public chat rooms](https://mikaela.info/discuss)
