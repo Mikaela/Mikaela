@@ -1,4 +1,4 @@
-Hi 👋🏻 ***[I sign my commits using SSH, but GitHub doesn't support verifying that yet](https://github.com/github/feedback/discussions/7744)*** 😞
+Hi 👋🏻
 
 <a target="_blank" href="https://www.openhub.net/accounts/Mikaela?ref=sample"><img alt='Open Hub profile for Aminda Suomalainen' border='0' height='35' src='https://www.openhub.net/accounts/Mikaela/widgets/account_detailed?format=gif' width='230'></a><br/>
 ![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Mikaela&count_private=true&show_icons=true&theme=cobalt)
