@@ -1,21 +1,11 @@
-Hi 👋🏻
+Welcome to my GitHub account,
 
-<a target="_blank" href="https://www.openhub.net/accounts/Mikaela?ref=sample"><img alt='Open Hub profile for Aminda Suomalainen' border='0' height='35' src='https://www.openhub.net/accounts/Mikaela/widgets/account_detailed?format=gif' width='230'></a><br/>
-![GitHub README Stats](https://github-readme-stats.vercel.app/api?username=Mikaela&count_private=true&show_icons=true&theme=cobalt)
+My own repositories are mainly at [gitea.blesmrt.net/Mikaela](https://gitea.blesmrt.net/mikaela/) with mirrors here and at [gitlab.com/mikaela](https://gitlab.com/mikaela/) for visibility, while I don't believe in centralising my `git` activity on a single service. I am eagerly awaiting for [ForgeFed](https://forgefed.org/) to do to Git forges what [Diaspora*](https://diasporafoundation.org/) did to Facebook and [Mastodon](https://joinmastodon.org/) did to Twitter.
 
-Most of my own repositories are mirrorred from [gitea.blesmrt.net](https://gitea.blesmrt.net/mikaela?tab=activity)
-just for showcasing instead of developed on GitHub, due [to some of my positions](https://cv.aminda.eu/) and getting introduced to [concerns](https://github.com/privacytools/privacytools.io/issues/763) with [Microsoft'](https://github.com/privacytools/privacytools.io/issues/843)s [GitHub](https://github.com/privacytools/privacytools.io/issues/1062) such as [Microsoft: Drop ICE](https://github.com/selfagency/microsoft-drop-ice)
-and [GitHub, do not ban us from open source world](https://github.com/1995parham/github-do-not-ban-us) via them.
+Seeing that you are here, you must be looking for projects that I am active with:
 
-In general I am mostly reporting issues, changing documentation or maintaining
-small scripts or files of some use to me.
+* I am a member of @Piraattipuolue ([Pirate Party of Finland](https://www.piraattipuolue.fi/en/)) ICT team maintaining our instances of [Matterbridge](https://github.com/42wim/matterbridge/), [Gitea](https://git.piraattipuolue.fi/), presenting us in [PirateIRC](https://pirateirc.net/) and often communicating with the upstream projects, our users or other Pirate Parties.
+* I am a [FluffyChat](https://gitlab.com/famedly/fluffychat/) moderator at Matrix, helping when I can in the rooms and occassionally contributing to documentation either within FluffyChat or wider Matrix ecosystem (where some would swear that I am everywhere :wink:). I am also a Finnish localizer for FluffyChat and [Nheko](https://github.com/Nheko-Reborn/nheko/).
+* You may also find me in other projects reporting or commenting on issues, discussions, contributing to Finnish localisations or documentation (in-tree, wiki, or something else), chatting on project spaces regardless of platform (maybe even as a moderator), advocating for a project in fitting situation or otherwise doing something small that needs doing such as [occassional OpenStreetMap contribution](https://www.openstreetmap.org/user/Ciblia).
 
-* [Aminda.eu](https://www.aminda.eu/) has further information on contacting me
-  (through Matrix, XMPP, etc.) and other git forges.
-  * [Curriculum Vitae](http://cv.aminda.eu/)
-  * [List of IRC networks/accounts](https://mikaela.info/txt/irc.txt) & [my public chat rooms](https://mikaela.info/discuss)
-    have their own files or pages.
-* GitHub hosted public [SSH](https://github.com/Mikaela.keys) and [GPG](https://github.com/Mikaela.gpg) keys.
-  * See also [me/ in pgp-alt-wot](https://github.com/Mikaela/pgp-alt-wot/tree/master/me) and [aminda.pub in ssh-allowed_signers](https://github.com/Mikaela/ssh-allowed_signers/blob/cxefa/aminda/aminda.pub).
-* Pronouns: she/they
-* `TZ=Europe/Helsinki date`
+Before I let you read more about my projects or GitHub activity focusing on code, I would like to say that my pronouns are she/they (I like alternating between them, while either or their equivalents are fine), you can find my local time by `TZ=Europe/Helsinki date` and my main projects are [my homepage, blog](https://www.aminda.eu/) (including kind of URL shortener and notes to self for quickly accessing information that I often need to reference), an [everything about everything version of my CV](https://cv.aminda.eu/) although employers and requesters will receive a more less verbose version made in LaTeX, [SSH keys I trust for code verification](https://gitea.blesmrt.net/Mikaela/ssh-allowed_signers), [same but PGP](https://gitea.blesmrt.net/mikaela/pgp-alt-wot), my [dotfiles](https://gitea.blesmrt.net/mikaela/shell-things) that also contain config file samples (some usable directly) and [assortment of potentially useful boilerplate, config, documentation on random subjects or anything that may be useful for my personal documentation or things that just aren't big enough for their own repos](https://gitea.blesmrt.net/mikaela/gist). As you may have noticed, I am not the person to ask for when you want a coder, but I may be the person for sysadmin tasks, software testing, documentation writer, link between your developers and community, or something more that doesn't fit small introduction or a neat box :smiley:
