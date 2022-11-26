@@ -8,7 +8,7 @@ Seeing that you are here, you must be looking for projects that I am active with
 * I am a [FluffyChat](https://gitlab.com/famedly/fluffychat/) moderator at Matrix, helping when I can in the rooms and occassionally contributing to documentation either within FluffyChat or wider Matrix ecosystem (where some would swear that I am everywhere :wink:). I am also a Finnish localizer for FluffyChat and [Nheko](https://github.com/Nheko-Reborn/nheko/).
 * You may also find me in other projects reporting or commenting on issues, discussions, contributing to Finnish localisations or documentation (in-tree, wiki, or something else), chatting on project spaces regardless of platform (maybe even as a moderator), advocating for a project in fitting situation or otherwise doing something small that needs doing such as [occassional OpenStreetMap contribution](https://www.openstreetmap.org/user/Ciblia).
 
-Before I let you read more about my repositories or GitHub activity focusing on code, I would like to say that my pronouns are she/they (I like alternating between them, while either or their equivalents are fine) and you can find my local time by `TZ=Europe/Helsinki date`.
+Before I let you read more about my repositories or GitHub activity focusing on code, I would like to say that my pronouns are she/they (I like alternating between them, while either or their equivalents are fine).
 
 ## Personal repository summary
 
