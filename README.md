@@ -4,7 +4,7 @@ My own repositories are mainly at [gitea.blesmrt.net/Mikaela](https://gitea.bles
 
 Seeing that you are here, you must be looking for projects that I am active with:
 
-* I am a member of @Piraattipuolue ([Pirate Party of Finland](https://www.piraattipuolue.fi/en/)) ICT team maintaining our instances of [Matterbridge](https://github.com/42wim/matterbridge/), [Gitea](https://git.piraattipuolue.fi/), presenting us in [PirateIRC](https://pirateirc.net/) and often communicating with the upstream projects, our users or other Pirate Parties.
+* I am a member of @Piraattipuolue ([Pirate Party of Finland](https://www.piraattipuolue.fi/en/)) ICT team maintaining our instances of [Matterbridge](https://github.com/42wim/matterbridge/), [Forĝejo](https://git.piraattipuolue.fi/), presenting us in [PirateIRC](https://pirateirc.net/) and often communicating with the upstream projects, our users or other Pirate Parties.
 * I am a [FluffyChat](https://gitlab.com/famedly/fluffychat/) moderator at Matrix, helping when I can in the rooms and occassionally contributing to documentation either within FluffyChat or wider Matrix ecosystem (where some would swear that I am everywhere :wink:). I am also a Finnish localizer for FluffyChat and [Nheko](https://github.com/Nheko-Reborn/nheko/).
 * You may also find me in other projects reporting or commenting on issues, discussions, contributing to Finnish localisations or documentation (in-tree, wiki, or something else), chatting on project spaces regardless of platform (maybe even as a moderator), advocating for a project in fitting situation or otherwise doing something small that needs doing such as [occassional OpenStreetMap contribution](https://www.openstreetmap.org/user/Ciblia).
 
