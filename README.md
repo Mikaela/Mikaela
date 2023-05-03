@@ -11,7 +11,7 @@ Seeing that you are here, you must be looking for projects that I am active with
 ## Personal repository summary
 
 - [aminda.eu - my homepage & blog](https://www.aminda.eu/) including kind of URL shortener and notes to self for quickly accessing information that I often need to reference
-- [CV - public everything about everything version of my Curriculum Vitae](https://cv.aminda.eu/) although employers and requesters will receive a more less verbose version made in LaTeX
+- [CV - public everything about everything version of my Curriculum Vitae](https://cv.aminda.eu/) although employers and requesters will receive a more less verbose version made in $\LaTeX$
 - [ssh-allowed_signers - SSH keys I trust for signature verification](https://gitea.blesmrt.net/Mikaela/ssh-allowed_signers)
 - [pgp-alt-wot - older project for the same as above, but in PGP](https://gitea.blesmrt.net/mikaela/pgp-alt-wot), I hope the SSH equivalent will replace it though
 - [shell-things - my dotfiles](https://gitea.blesmrt.net/mikaela/shell-things) that also contain config file samples (some usable directly)
