@@ -12,7 +12,7 @@ default_language_version:
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v6.0.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -37,7 +37,7 @@ repos:
 
   # Markdown Table of Contents generation.
   - repo: https://github.com/thlorenz/doctoc
-    rev: v2.2.0
+    rev: v2.5.0
     hooks:
       - id: doctoc
         # https://github.com/Mikaela/gist/blob/master/doctoc.txt
@@ -51,7 +51,7 @@ repos:
         language: system
 
   - repo: https://github.com/editorconfig-checker/editorconfig-checker.python
-    rev: "2.7.3"
+    rev: "3.6.1"
     hooks:
       - id: editorconfig-checker
         alias: ec
